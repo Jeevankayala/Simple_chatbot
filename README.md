@@ -1,3 +1,5 @@
+![[GIF demo of the chatbot]](demo.gif)
+
 # Gemini-based Chatbot with Streamlit
 
 Welcome to the **Gemini-based Chatbot** built using **Streamlit** and the **Google Generative AI** API. This project allows you to interact with an AI model that generates text responses based on user input. 
